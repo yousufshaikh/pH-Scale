@@ -5,7 +5,7 @@ body{
 	color: white;
 }
 h1{
-	/*background-color: #ffffff;*/
+	background-color: #ffffff;
 	background-color: hsla(0,100%,100%,0.5);
 	color: #64645A;
 	padding: inherit;
